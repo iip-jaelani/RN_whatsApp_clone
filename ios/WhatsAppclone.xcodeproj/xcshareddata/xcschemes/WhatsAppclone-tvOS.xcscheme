@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "youtube_clone-tvOS.app"
-               BlueprintName = "youtube_clone-tvOS"
-               ReferencedContainer = "container:youtube_clone.xcodeproj">
+               BuildableName = "WhatsAppclone-tvOS.app"
+               BlueprintName = "WhatsAppclone-tvOS"
+               ReferencedContainer = "container:WhatsAppclone.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "youtube_clone-tvOSTests.xctest"
-               BlueprintName = "youtube_clone-tvOSTests"
-               ReferencedContainer = "container:youtube_clone.xcodeproj">
+               BuildableName = "WhatsAppclone-tvOSTests.xctest"
+               BlueprintName = "WhatsAppclone-tvOSTests"
+               ReferencedContainer = "container:WhatsAppclone.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "youtube_clone-tvOS.app"
-            BlueprintName = "youtube_clone-tvOS"
-            ReferencedContainer = "container:youtube_clone.xcodeproj">
+            BuildableName = "WhatsAppclone-tvOS.app"
+            BlueprintName = "WhatsAppclone-tvOS"
+            ReferencedContainer = "container:WhatsAppclone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "youtube_clone-tvOS.app"
-            BlueprintName = "youtube_clone-tvOS"
-            ReferencedContainer = "container:youtube_clone.xcodeproj">
+            BuildableName = "WhatsAppclone-tvOS.app"
+            BlueprintName = "WhatsAppclone-tvOS"
+            ReferencedContainer = "container:WhatsAppclone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

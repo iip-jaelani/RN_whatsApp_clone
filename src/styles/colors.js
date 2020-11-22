@@ -1,0 +1,9 @@
+// color list
+export const LIGHT_THEME = {
+  PRIMARY_COLOR: '#128C7E',
+  PRIMARY_DOFF_COLOR: '#075E54',
+  BLUE_COLOR: '#34B7F1',
+  GREEN_COLOR: '#25D366',
+  BEIGE_COLOR: '#ECE5DD',
+  WHITE_COLOR: '#FFFFFF',
+};

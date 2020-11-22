@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.youtube_clone"
+        applicationId "com.whatsappclone"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

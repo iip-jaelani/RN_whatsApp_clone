@@ -7,19 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* youtube_cloneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* youtube_cloneTests.m */; };
+		00E356F31AD99517003FC87E /* WhatsAppcloneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* WhatsAppcloneTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		15B8EE5F471F45B3B3BE38BF /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E2116CC623354B5393C24FAD /* FontAwesome5_Brands.ttf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* youtube_cloneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* youtube_cloneTests.m */; };
-		39FA8D250F0C0CB7FBB695FA /* libPods-youtube_clone-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0448DA1FB4E9D945CBD09454 /* libPods-youtube_clone-tvOSTests.a */; };
-		4A81BB9CA7D28C8663C658C4 /* libPods-youtube_clone.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C987B70208FC3751123E7170 /* libPods-youtube_clone.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* WhatsAppcloneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* WhatsAppcloneTests.m */; };
+		30067BEF409B46899AA53476 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5A87EB4D81A4792AC781720 /* Zocial.ttf */; };
+		39FA8D250F0C0CB7FBB695FA /* libPods-WhatsAppclone-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0448DA1FB4E9D945CBD09454 /* libPods-WhatsAppclone-tvOSTests.a */; };
+		4A81BB9CA7D28C8663C658C4 /* libPods-WhatsAppclone.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C987B70208FC3751123E7170 /* libPods-WhatsAppclone.a */; };
+		5141ACAF39E4425086057314 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AE8F37430C2646BEB2BB9256 /* Foundation.ttf */; };
+		51EDF4E7359341868D76700D /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 220B9814D17744858B416121 /* AntDesign.ttf */; };
+		583DED9BE5374E78A2DF0222 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7071A51320104EED956148EA /* MaterialCommunityIcons.ttf */; };
+		6A76B4421CDB45CD892D4F1F /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 50D01A11467046A7BFE7AC5D /* Feather.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		93F0D2D28AF095BADC4D7B24 /* libPods-youtube_clone-youtube_cloneTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DB4DB193E5CD2C363487E9F /* libPods-youtube_clone-youtube_cloneTests.a */; };
-		CA5C07921B2138AB79ADF3F4 /* libPods-youtube_clone-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 73A5C3072F97AEC9DF819E20 /* libPods-youtube_clone-tvOS.a */; };
+		83B2231F1C71449DBBB0A04B /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F5CA1BD82224D77B6BD77A0 /* Entypo.ttf */; };
+		8B6C8A4271E04370A4965543 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05631FB31B0F4FF9BFAC26A7 /* FontAwesome5_Solid.ttf */; };
+		8E30E761EF464BE88214BA5B /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8C57320EC374784A9E3100C /* SimpleLineIcons.ttf */; };
+		903E1FD6072A45408E682790 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9D57A10E7D0D40A89A86AC19 /* FontAwesome.ttf */; };
+		93F0D2D28AF095BADC4D7B24 /* libPods-WhatsAppclone-WhatsAppcloneTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DB4DB193E5CD2C363487E9F /* libPods-WhatsAppclone-WhatsAppcloneTests.a */; };
+		A0B76246C025481CA9CC22DF /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63D4BA21865F46F0B0E35205 /* FontAwesome5_Regular.ttf */; };
+		A459A945679F4B24940EB359 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6651368E024F49A2B0F30B7D /* Ionicons.ttf */; };
+		C807D116D1094BB0A996D733 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAA540FBC84567BCB72B56 /* MaterialIcons.ttf */; };
+		CA5C07921B2138AB79ADF3F4 /* libPods-WhatsAppclone-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 73A5C3072F97AEC9DF819E20 /* libPods-WhatsAppclone-tvOS.a */; };
+		DD8E496B5639418C900227FC /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 34C4CB2830D442338225DBA7 /* Octicons.ttf */; };
+		E24E2B191CAB4288A36C9387 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC0FF0DFA7A04659B257FE1D /* EvilIcons.ttf */; };
+		F5E86C054D7C41AE92AECED0 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 59DC11985B7D4AD6A3F6F46C /* Fontisto.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,45 +44,61 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = youtube_clone;
+			remoteInfo = WhatsAppclone;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "youtube_clone-tvOS";
+			remoteInfo = "WhatsAppclone-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* youtube_cloneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = youtube_cloneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* WhatsAppcloneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WhatsAppcloneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* youtube_cloneTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = youtube_cloneTests.m; sourceTree = "<group>"; };
-		0448DA1FB4E9D945CBD09454 /* libPods-youtube_clone-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-youtube_clone-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07F961A680F5B00A75B9A /* youtube_clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = youtube_clone.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = youtube_clone/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = youtube_clone/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = youtube_clone/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = youtube_clone/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = youtube_clone/main.m; sourceTree = "<group>"; };
-		148FE079AF8EDEBA27029D92 /* Pods-youtube_clone-youtube_cloneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-youtube_clone-youtube_cloneTests.debug.xcconfig"; path = "Target Support Files/Pods-youtube_clone-youtube_cloneTests/Pods-youtube_clone-youtube_cloneTests.debug.xcconfig"; sourceTree = "<group>"; };
-		16EA19179FE0E652EEF23162 /* Pods-youtube_clone-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-youtube_clone-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-youtube_clone-tvOS/Pods-youtube_clone-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		22EEFC15DBF15E3D4E3644F2 /* Pods-youtube_clone-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-youtube_clone-tvOS.release.xcconfig"; path = "Target Support Files/Pods-youtube_clone-tvOS/Pods-youtube_clone-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* youtube_clone-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "youtube_clone-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* youtube_clone-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "youtube_clone-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		31BA2F12E9D45067244EBC0B /* Pods-youtube_clone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-youtube_clone.release.xcconfig"; path = "Target Support Files/Pods-youtube_clone/Pods-youtube_clone.release.xcconfig"; sourceTree = "<group>"; };
-		33D4EAB7B89AECC5495BBF77 /* Pods-youtube_clone-youtube_cloneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-youtube_clone-youtube_cloneTests.release.xcconfig"; path = "Target Support Files/Pods-youtube_clone-youtube_cloneTests/Pods-youtube_clone-youtube_cloneTests.release.xcconfig"; sourceTree = "<group>"; };
-		64460141AA8B5632E5E471F0 /* Pods-youtube_clone-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-youtube_clone-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-youtube_clone-tvOSTests/Pods-youtube_clone-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		73A5C3072F97AEC9DF819E20 /* libPods-youtube_clone-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-youtube_clone-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7DB4DB193E5CD2C363487E9F /* libPods-youtube_clone-youtube_cloneTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-youtube_clone-youtube_cloneTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = youtube_clone/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A3568AA0DE79EFB02EEC4B38 /* Pods-youtube_clone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-youtube_clone.debug.xcconfig"; path = "Target Support Files/Pods-youtube_clone/Pods-youtube_clone.debug.xcconfig"; sourceTree = "<group>"; };
-		C987B70208FC3751123E7170 /* libPods-youtube_clone.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-youtube_clone.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D6359690F104E6FA2CDE06F4 /* Pods-youtube_clone-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-youtube_clone-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-youtube_clone-tvOSTests/Pods-youtube_clone-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* WhatsAppcloneTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WhatsAppcloneTests.m; sourceTree = "<group>"; };
+		0448DA1FB4E9D945CBD09454 /* libPods-WhatsAppclone-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WhatsAppclone-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		05631FB31B0F4FF9BFAC26A7 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* WhatsAppclone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhatsAppclone.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = WhatsAppclone/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = WhatsAppclone/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = WhatsAppclone/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = WhatsAppclone/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = WhatsAppclone/main.m; sourceTree = "<group>"; };
+		148FE079AF8EDEBA27029D92 /* Pods-WhatsAppclone-WhatsAppcloneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WhatsAppclone-WhatsAppcloneTests.debug.xcconfig"; path = "Target Support Files/Pods-WhatsAppclone-WhatsAppcloneTests/Pods-WhatsAppclone-WhatsAppcloneTests.debug.xcconfig"; sourceTree = "<group>"; };
+		16EA19179FE0E652EEF23162 /* Pods-WhatsAppclone-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WhatsAppclone-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-WhatsAppclone-tvOS/Pods-WhatsAppclone-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		220B9814D17744858B416121 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		22EEFC15DBF15E3D4E3644F2 /* Pods-WhatsAppclone-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WhatsAppclone-tvOS.release.xcconfig"; path = "Target Support Files/Pods-WhatsAppclone-tvOS/Pods-WhatsAppclone-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* WhatsAppclone-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WhatsAppclone-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* WhatsAppclone-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WhatsAppclone-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		31BA2F12E9D45067244EBC0B /* Pods-WhatsAppclone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WhatsAppclone.release.xcconfig"; path = "Target Support Files/Pods-WhatsAppclone/Pods-WhatsAppclone.release.xcconfig"; sourceTree = "<group>"; };
+		33D4EAB7B89AECC5495BBF77 /* Pods-WhatsAppclone-WhatsAppcloneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WhatsAppclone-WhatsAppcloneTests.release.xcconfig"; path = "Target Support Files/Pods-WhatsAppclone-WhatsAppcloneTests/Pods-WhatsAppclone-WhatsAppcloneTests.release.xcconfig"; sourceTree = "<group>"; };
+		34C4CB2830D442338225DBA7 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		4F5CA1BD82224D77B6BD77A0 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		50D01A11467046A7BFE7AC5D /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		59DC11985B7D4AD6A3F6F46C /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		63D4BA21865F46F0B0E35205 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		64460141AA8B5632E5E471F0 /* Pods-WhatsAppclone-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WhatsAppclone-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-WhatsAppclone-tvOSTests/Pods-WhatsAppclone-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		6651368E024F49A2B0F30B7D /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		7071A51320104EED956148EA /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		73A5C3072F97AEC9DF819E20 /* libPods-WhatsAppclone-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WhatsAppclone-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7DB4DB193E5CD2C363487E9F /* libPods-WhatsAppclone-WhatsAppcloneTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WhatsAppclone-WhatsAppcloneTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = WhatsAppclone/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9D57A10E7D0D40A89A86AC19 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		A3568AA0DE79EFB02EEC4B38 /* Pods-WhatsAppclone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WhatsAppclone.debug.xcconfig"; path = "Target Support Files/Pods-WhatsAppclone/Pods-WhatsAppclone.debug.xcconfig"; sourceTree = "<group>"; };
+		A5A87EB4D81A4792AC781720 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		AC0FF0DFA7A04659B257FE1D /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		AE8F37430C2646BEB2BB9256 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		C987B70208FC3751123E7170 /* libPods-WhatsAppclone.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WhatsAppclone.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6359690F104E6FA2CDE06F4 /* Pods-WhatsAppclone-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WhatsAppclone-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-WhatsAppclone-tvOSTests/Pods-WhatsAppclone-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E2116CC623354B5393C24FAD /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		E8C57320EC374784A9E3100C /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		F5CAA540FBC84567BCB72B56 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +106,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				93F0D2D28AF095BADC4D7B24 /* libPods-youtube_clone-youtube_cloneTests.a in Frameworks */,
+				93F0D2D28AF095BADC4D7B24 /* libPods-WhatsAppclone-WhatsAppcloneTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +114,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4A81BB9CA7D28C8663C658C4 /* libPods-youtube_clone.a in Frameworks */,
+				4A81BB9CA7D28C8663C658C4 /* libPods-WhatsAppclone.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +122,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CA5C07921B2138AB79ADF3F4 /* libPods-youtube_clone-tvOS.a in Frameworks */,
+				CA5C07921B2138AB79ADF3F4 /* libPods-WhatsAppclone-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +130,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				39FA8D250F0C0CB7FBB695FA /* libPods-youtube_clone-tvOSTests.a in Frameworks */,
+				39FA8D250F0C0CB7FBB695FA /* libPods-WhatsAppclone-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* youtube_cloneTests */ = {
+		00E356EF1AD99517003FC87E /* WhatsAppcloneTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* youtube_cloneTests.m */,
+				00E356F21AD99517003FC87E /* WhatsAppcloneTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = youtube_cloneTests;
+			path = WhatsAppcloneTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +154,31 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* youtube_clone */ = {
+		0CD98D12A8D24698939DC34B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				220B9814D17744858B416121 /* AntDesign.ttf */,
+				4F5CA1BD82224D77B6BD77A0 /* Entypo.ttf */,
+				AC0FF0DFA7A04659B257FE1D /* EvilIcons.ttf */,
+				50D01A11467046A7BFE7AC5D /* Feather.ttf */,
+				9D57A10E7D0D40A89A86AC19 /* FontAwesome.ttf */,
+				E2116CC623354B5393C24FAD /* FontAwesome5_Brands.ttf */,
+				63D4BA21865F46F0B0E35205 /* FontAwesome5_Regular.ttf */,
+				05631FB31B0F4FF9BFAC26A7 /* FontAwesome5_Solid.ttf */,
+				59DC11985B7D4AD6A3F6F46C /* Fontisto.ttf */,
+				AE8F37430C2646BEB2BB9256 /* Foundation.ttf */,
+				6651368E024F49A2B0F30B7D /* Ionicons.ttf */,
+				7071A51320104EED956148EA /* MaterialCommunityIcons.ttf */,
+				F5CAA540FBC84567BCB72B56 /* MaterialIcons.ttf */,
+				34C4CB2830D442338225DBA7 /* Octicons.ttf */,
+				E8C57320EC374784A9E3100C /* SimpleLineIcons.ttf */,
+				A5A87EB4D81A4792AC781720 /* Zocial.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
+		13B07FAE1A68108700A75B9A /* WhatsAppclone */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +189,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = youtube_clone;
+			name = WhatsAppclone;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +197,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				C987B70208FC3751123E7170 /* libPods-youtube_clone.a */,
-				73A5C3072F97AEC9DF819E20 /* libPods-youtube_clone-tvOS.a */,
-				0448DA1FB4E9D945CBD09454 /* libPods-youtube_clone-tvOSTests.a */,
-				7DB4DB193E5CD2C363487E9F /* libPods-youtube_clone-youtube_cloneTests.a */,
+				C987B70208FC3751123E7170 /* libPods-WhatsAppclone.a */,
+				73A5C3072F97AEC9DF819E20 /* libPods-WhatsAppclone-tvOS.a */,
+				0448DA1FB4E9D945CBD09454 /* libPods-WhatsAppclone-tvOSTests.a */,
+				7DB4DB193E5CD2C363487E9F /* libPods-WhatsAppclone-WhatsAppcloneTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -152,14 +208,14 @@
 		82966301E43485D91F67521C /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				A3568AA0DE79EFB02EEC4B38 /* Pods-youtube_clone.debug.xcconfig */,
-				31BA2F12E9D45067244EBC0B /* Pods-youtube_clone.release.xcconfig */,
-				16EA19179FE0E652EEF23162 /* Pods-youtube_clone-tvOS.debug.xcconfig */,
-				22EEFC15DBF15E3D4E3644F2 /* Pods-youtube_clone-tvOS.release.xcconfig */,
-				D6359690F104E6FA2CDE06F4 /* Pods-youtube_clone-tvOSTests.debug.xcconfig */,
-				64460141AA8B5632E5E471F0 /* Pods-youtube_clone-tvOSTests.release.xcconfig */,
-				148FE079AF8EDEBA27029D92 /* Pods-youtube_clone-youtube_cloneTests.debug.xcconfig */,
-				33D4EAB7B89AECC5495BBF77 /* Pods-youtube_clone-youtube_cloneTests.release.xcconfig */,
+				A3568AA0DE79EFB02EEC4B38 /* Pods-WhatsAppclone.debug.xcconfig */,
+				31BA2F12E9D45067244EBC0B /* Pods-WhatsAppclone.release.xcconfig */,
+				16EA19179FE0E652EEF23162 /* Pods-WhatsAppclone-tvOS.debug.xcconfig */,
+				22EEFC15DBF15E3D4E3644F2 /* Pods-WhatsAppclone-tvOS.release.xcconfig */,
+				D6359690F104E6FA2CDE06F4 /* Pods-WhatsAppclone-tvOSTests.debug.xcconfig */,
+				64460141AA8B5632E5E471F0 /* Pods-WhatsAppclone-tvOSTests.release.xcconfig */,
+				148FE079AF8EDEBA27029D92 /* Pods-WhatsAppclone-WhatsAppcloneTests.debug.xcconfig */,
+				33D4EAB7B89AECC5495BBF77 /* Pods-WhatsAppclone-WhatsAppcloneTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -175,12 +231,13 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* youtube_clone */,
+				13B07FAE1A68108700A75B9A /* WhatsAppclone */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* youtube_cloneTests */,
+				00E356EF1AD99517003FC87E /* WhatsAppcloneTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				82966301E43485D91F67521C /* Pods */,
+				0CD98D12A8D24698939DC34B /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -190,10 +247,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* youtube_clone.app */,
-				00E356EE1AD99517003FC87E /* youtube_cloneTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* youtube_clone-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* youtube_clone-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* WhatsAppclone.app */,
+				00E356EE1AD99517003FC87E /* WhatsAppcloneTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* WhatsAppclone-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* WhatsAppclone-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -201,9 +258,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* youtube_cloneTests */ = {
+		00E356ED1AD99517003FC87E /* WhatsAppcloneTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "youtube_cloneTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "WhatsAppcloneTests" */;
 			buildPhases = (
 				C3E62351DC493E5888AC4BAF /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -216,14 +273,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = youtube_cloneTests;
-			productName = youtube_cloneTests;
-			productReference = 00E356EE1AD99517003FC87E /* youtube_cloneTests.xctest */;
+			name = WhatsAppcloneTests;
+			productName = WhatsAppcloneTests;
+			productReference = 00E356EE1AD99517003FC87E /* WhatsAppcloneTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* youtube_clone */ = {
+		13B07F861A680F5B00A75B9A /* WhatsAppclone */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "youtube_clone" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "WhatsAppclone" */;
 			buildPhases = (
 				E85397CA88739D9CB607C3DA /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -237,14 +294,14 @@
 			);
 			dependencies = (
 			);
-			name = youtube_clone;
-			productName = youtube_clone;
-			productReference = 13B07F961A680F5B00A75B9A /* youtube_clone.app */;
+			name = WhatsAppclone;
+			productName = WhatsAppclone;
+			productReference = 13B07F961A680F5B00A75B9A /* WhatsAppclone.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* youtube_clone-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* WhatsAppclone-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "youtube_clone-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "WhatsAppclone-tvOS" */;
 			buildPhases = (
 				D8BA7685DA9218C1EFE3AC77 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -257,14 +314,14 @@
 			);
 			dependencies = (
 			);
-			name = "youtube_clone-tvOS";
-			productName = "youtube_clone-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* youtube_clone-tvOS.app */;
+			name = "WhatsAppclone-tvOS";
+			productName = "WhatsAppclone-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* WhatsAppclone-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* youtube_clone-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* WhatsAppclone-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "youtube_clone-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "WhatsAppclone-tvOSTests" */;
 			buildPhases = (
 				4504FFED981A99F485DDFEC6 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -276,9 +333,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "youtube_clone-tvOSTests";
-			productName = "youtube_clone-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* youtube_clone-tvOSTests.xctest */;
+			name = "WhatsAppclone-tvOSTests";
+			productName = "WhatsAppclone-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* WhatsAppclone-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -307,7 +364,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "youtube_clone" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "WhatsAppclone" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -320,10 +377,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* youtube_clone */,
-				00E356ED1AD99517003FC87E /* youtube_cloneTests */,
-				2D02E47A1E0B4A5D006451C7 /* youtube_clone-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* youtube_clone-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* WhatsAppclone */,
+				00E356ED1AD99517003FC87E /* WhatsAppcloneTests */,
+				2D02E47A1E0B4A5D006451C7 /* WhatsAppclone-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* WhatsAppclone-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -342,6 +399,22 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				51EDF4E7359341868D76700D /* AntDesign.ttf in Resources */,
+				83B2231F1C71449DBBB0A04B /* Entypo.ttf in Resources */,
+				E24E2B191CAB4288A36C9387 /* EvilIcons.ttf in Resources */,
+				6A76B4421CDB45CD892D4F1F /* Feather.ttf in Resources */,
+				903E1FD6072A45408E682790 /* FontAwesome.ttf in Resources */,
+				15B8EE5F471F45B3B3BE38BF /* FontAwesome5_Brands.ttf in Resources */,
+				A0B76246C025481CA9CC22DF /* FontAwesome5_Regular.ttf in Resources */,
+				8B6C8A4271E04370A4965543 /* FontAwesome5_Solid.ttf in Resources */,
+				F5E86C054D7C41AE92AECED0 /* Fontisto.ttf in Resources */,
+				5141ACAF39E4425086057314 /* Foundation.ttf in Resources */,
+				A459A945679F4B24940EB359 /* Ionicons.ttf in Resources */,
+				583DED9BE5374E78A2DF0222 /* MaterialCommunityIcons.ttf in Resources */,
+				C807D116D1094BB0A996D733 /* MaterialIcons.ttf in Resources */,
+				DD8E496B5639418C900227FC /* Octicons.ttf in Resources */,
+				8E30E761EF464BE88214BA5B /* SimpleLineIcons.ttf in Resources */,
+				30067BEF409B46899AA53476 /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -406,7 +479,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-youtube_clone-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-WhatsAppclone-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -419,16 +492,48 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-youtube_clone/Pods-youtube_clone-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-WhatsAppclone/Pods-WhatsAppclone-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-youtube_clone/Pods-youtube_clone-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-WhatsAppclone/Pods-WhatsAppclone-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		C3E62351DC493E5888AC4BAF /* [CP] Check Pods Manifest.lock */ = {
@@ -446,7 +551,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-youtube_clone-youtube_cloneTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-WhatsAppclone-WhatsAppcloneTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -468,7 +573,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-youtube_clone-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-WhatsAppclone-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -490,7 +595,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-youtube_clone-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-WhatsAppclone-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -503,16 +608,48 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-youtube_clone-youtube_cloneTests/Pods-youtube_clone-youtube_cloneTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-WhatsAppclone-WhatsAppcloneTests/Pods-WhatsAppclone-WhatsAppcloneTests-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-youtube_clone-youtube_cloneTests/Pods-youtube_clone-youtube_cloneTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-WhatsAppclone-WhatsAppcloneTests/Pods-WhatsAppclone-WhatsAppcloneTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -560,7 +697,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* youtube_cloneTests.m in Sources */,
+				00E356F31AD99517003FC87E /* WhatsAppcloneTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -586,7 +723,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* youtube_cloneTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* WhatsAppcloneTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -595,12 +732,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* youtube_clone */;
+			target = 13B07F861A680F5B00A75B9A /* WhatsAppclone */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* youtube_clone-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* WhatsAppclone-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -608,14 +745,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 148FE079AF8EDEBA27029D92 /* Pods-youtube_clone-youtube_cloneTests.debug.xcconfig */;
+			baseConfigurationReference = 148FE079AF8EDEBA27029D92 /* Pods-WhatsAppclone-WhatsAppcloneTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = youtube_cloneTests/Info.plist;
+				INFOPLIST_FILE = WhatsAppcloneTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -625,17 +762,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/youtube_clone.app/youtube_clone";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WhatsAppclone.app/WhatsAppclone";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 33D4EAB7B89AECC5495BBF77 /* Pods-youtube_clone-youtube_cloneTests.release.xcconfig */;
+			baseConfigurationReference = 33D4EAB7B89AECC5495BBF77 /* Pods-WhatsAppclone-WhatsAppcloneTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = youtube_cloneTests/Info.plist;
+				INFOPLIST_FILE = WhatsAppcloneTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -645,19 +782,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/youtube_clone.app/youtube_clone";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WhatsAppclone.app/WhatsAppclone";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A3568AA0DE79EFB02EEC4B38 /* Pods-youtube_clone.debug.xcconfig */;
+			baseConfigurationReference = A3568AA0DE79EFB02EEC4B38 /* Pods-WhatsAppclone.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = youtube_clone/Info.plist;
+				INFOPLIST_FILE = WhatsAppclone/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -665,7 +802,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = youtube_clone;
+				PRODUCT_NAME = WhatsAppclone;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -674,12 +811,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 31BA2F12E9D45067244EBC0B /* Pods-youtube_clone.release.xcconfig */;
+			baseConfigurationReference = 31BA2F12E9D45067244EBC0B /* Pods-WhatsAppclone.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = youtube_clone/Info.plist;
+				INFOPLIST_FILE = WhatsAppclone/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -687,7 +824,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = youtube_clone;
+				PRODUCT_NAME = WhatsAppclone;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -695,7 +832,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 16EA19179FE0E652EEF23162 /* Pods-youtube_clone-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 16EA19179FE0E652EEF23162 /* Pods-WhatsAppclone-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -706,14 +843,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "youtube_clone-tvOS/Info.plist";
+				INFOPLIST_FILE = "WhatsAppclone-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.youtube_clone-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.WhatsAppclone-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -723,7 +860,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 22EEFC15DBF15E3D4E3644F2 /* Pods-youtube_clone-tvOS.release.xcconfig */;
+			baseConfigurationReference = 22EEFC15DBF15E3D4E3644F2 /* Pods-WhatsAppclone-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -734,14 +871,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "youtube_clone-tvOS/Info.plist";
+				INFOPLIST_FILE = "WhatsAppclone-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.youtube_clone-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.WhatsAppclone-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -751,7 +888,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D6359690F104E6FA2CDE06F4 /* Pods-youtube_clone-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = D6359690F104E6FA2CDE06F4 /* Pods-WhatsAppclone-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -761,24 +898,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "youtube_clone-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "WhatsAppclone-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.youtube_clone-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.WhatsAppclone-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/youtube_clone-tvOS.app/youtube_clone-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WhatsAppclone-tvOS.app/WhatsAppclone-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 64460141AA8B5632E5E471F0 /* Pods-youtube_clone-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 64460141AA8B5632E5E471F0 /* Pods-WhatsAppclone-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -788,17 +925,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "youtube_clone-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "WhatsAppclone-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.youtube_clone-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.WhatsAppclone-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/youtube_clone-tvOS.app/youtube_clone-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WhatsAppclone-tvOS.app/WhatsAppclone-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -919,7 +1056,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "youtube_cloneTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "WhatsAppcloneTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -928,7 +1065,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "youtube_clone" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "WhatsAppclone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -937,7 +1074,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "youtube_clone-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "WhatsAppclone-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -946,7 +1083,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "youtube_clone-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "WhatsAppclone-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -955,7 +1092,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "youtube_clone" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "WhatsAppclone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
